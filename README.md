@@ -4,7 +4,7 @@ This is an sign up form for an imaginary service. In the future, I will use java
 
 ## Technologies Used
 
-* **Frontend:** HTML, CSS, Javascript
+* **Frontend:** HTML, CSS
 * **Text Editor:** [Visual Studio Code](https://visualstudio.com)
 
 ## Credits
